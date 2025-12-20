@@ -104,7 +104,7 @@
 ---
 ## 📅 **Day 4 — C# Primitive Data Types & Type Casting**
 
-> **Date:** _12/10/2025_  
+> **Date:** _19/12/2025_  
 > **Topic:** C# Primitive Data Types, Type Casting & Basic Programs
 
 ### 🧩 What I Learned

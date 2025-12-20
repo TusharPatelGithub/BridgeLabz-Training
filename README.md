@@ -102,3 +102,36 @@
 > Next, I will learn **Control Statements (if-else, switch)**, **Loops**, **Methods**, and **Data Types** in C# in more detail.
 
 ---
+## 📅 **Day 4 — C# Primitive Data Types & Type Casting**
+
+> **Date:** _12/10/2025_  
+> **Topic:** C# Primitive Data Types, Type Casting & Basic Programs
+
+### 🧩 What I Learned
+
+- 🔢 **Primitive Data Types in C#:**
+  - `int`, `float`, `double`, `char`, `bool`, `long`
+- 🔁 **Type Casting:**
+  - Implicit type casting (int → float, int → double)
+  - Explicit type casting (double → int)
+  - Type casting using `Convert` class
+- 🖥️ **Console Output Formatting:**
+  - Understanding why `5.0` prints as `5`
+- ⚙️ **.NET CLI Basics:**
+  - Using `dotnet new console`
+  - Running programs with `dotnet run`
+
+### 🧪 Task for the Day
+
+> - Write programs for:
+>   - Kilometer to Miles conversion
+>   - Percentage calculation
+>   - Demonstrating primitive data types
+>   - Performing type casting
+> - Organize programs inside **level1** folder
+> - Run C# programs using **dotnet CLI**
+
+### 🧭 What’s Next
+
+> Next, we will learn **C# Operators** (Arithmetic, Relational, Logical, Unary, Ternary)  
+> and write programs using these operators.

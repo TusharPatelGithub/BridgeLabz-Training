@@ -135,3 +135,44 @@
 
 > Next, we will learn **C# Operators** (Arithmetic, Relational, Logical, Unary, Ternary)  
 > and write programs using these operators.
+## 📅 **Day 5 — Control Flow Statements in C#**
+
+> **Date:** _22/12/2025_  
+> **Topic:** Conditional Statements, Loops & Jump Statements
+
+### 🧩 What I Learned
+
+- 🔀 **Control Flow in C#:**
+  - Understanding how program execution flow works
+  - Default sequential execution vs controlled execution
+
+- 🔍 **Conditional Statements:**
+  - `if` statement
+  - `if-else` statement
+  - `else if` ladder
+  - `switch` statement
+
+- 🔁 **Looping Statements:**
+  - `for` loop
+  - `while` loop
+  - `do-while` loop
+
+- 🚦 **Jump Statements:**
+  - `break`
+  - `continue`
+  - `return`
+
+### 🧪 Task for the Day
+
+> - Write programs to:
+>   - Check whether a number is **even or odd**
+>   - Display numbers using **for**, **while**, and **do-while** loops
+>   - Print day names using **switch-case**
+>   - Demonstrate use of **break** and **continue**
+> - Organize programs inside **level2** folder
+> - Execute programs using **dotnet run**
+
+### 🧭 What’s Next
+
+> Next, we will learn about **Arrays and Strings in C#**  
+> and write programs using loops and conditions.

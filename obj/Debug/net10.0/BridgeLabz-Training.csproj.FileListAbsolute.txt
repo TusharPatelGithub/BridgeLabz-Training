@@ -1,5 +1,0 @@
-C:\Users\91854\Desktop\BridgeLabz-Training\obj\Debug\net10.0\BridgeLabz-Training.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\91854\Desktop\BridgeLabz-Training\obj\Debug\net10.0\BridgeLabz-Training.AssemblyInfoInputs.cache
-C:\Users\91854\Desktop\BridgeLabz-Training\obj\Debug\net10.0\BridgeLabz-Training.AssemblyInfo.cs
-C:\Users\91854\Desktop\BridgeLabz-Training\obj\Debug\net10.0\BridgeLabz-Training.csproj.CoreCompileInputs.cache
-C:\Users\91854\Desktop\BridgeLabz-Training\obj\Debug\net10.0\BridgeLabz-Training.sourcelink.json

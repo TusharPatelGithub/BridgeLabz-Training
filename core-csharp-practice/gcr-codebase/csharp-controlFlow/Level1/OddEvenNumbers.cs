@@ -6,7 +6,6 @@ class OddEvenNumbers
     {
         Console.Write("Enter a number: ");
         int number = Convert.ToInt32(Console.ReadLine());
-
         if (number > 0)
         {
             for (int i = 1; i <= number; i++)

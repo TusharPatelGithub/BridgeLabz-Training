@@ -6,7 +6,6 @@ class RocketLaunch2
     {
         Console.Write("Enter countdown number: ");
         int number = Convert.ToInt32(Console.ReadLine());
-
         for (int counter = number; counter >= 1; counter--)
         {
             Console.WriteLine(counter);

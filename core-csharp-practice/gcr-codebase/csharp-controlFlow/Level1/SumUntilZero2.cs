@@ -5,7 +5,6 @@ class SumUntilZero2
     public static void Main(string[] args)
     {
         double total = 0.0;
-
         while (true)
         {
             Console.Write("Enter a number (0 or negative to stop): ");
@@ -15,10 +14,8 @@ class SumUntilZero2
             {
                 break;
             }
-
-            total += number;
+            total+=number;
         }
-
         Console.WriteLine("The total sum is " + total);
     }
 }

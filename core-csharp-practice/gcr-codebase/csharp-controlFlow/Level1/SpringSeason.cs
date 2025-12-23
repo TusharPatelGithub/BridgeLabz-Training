@@ -6,7 +6,6 @@ class SpringSeason
     {
         int month = Convert.ToInt32(args[0]);
         int day = Convert.ToInt32(args[1]);
-
         if ((month == 3 && day >= 20) ||
             (month == 4) ||
             (month == 5) ||

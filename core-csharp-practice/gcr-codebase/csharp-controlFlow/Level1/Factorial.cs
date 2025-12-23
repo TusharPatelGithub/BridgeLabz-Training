@@ -6,7 +6,6 @@ class Factorial
     {
         Console.Write("Enter a number: ");
         int number = Convert.ToInt32(Console.ReadLine());
-
         if (number > 0)
         {
             int factorial = 1;

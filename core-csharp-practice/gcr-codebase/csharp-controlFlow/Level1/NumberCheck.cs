@@ -6,7 +6,6 @@ class NumberCheck
     {
         Console.Write("Enter number: ");
         int number = Convert.ToInt32(Console.ReadLine());
-
         if (number > 0)
         {
             Console.WriteLine("positive");

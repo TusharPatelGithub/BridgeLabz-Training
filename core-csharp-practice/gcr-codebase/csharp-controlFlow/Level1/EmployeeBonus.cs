@@ -6,7 +6,6 @@ class EmployeeBonus
     {
         Console.Write("Enter salary: ");
         double salary = Convert.ToDouble(Console.ReadLine());
-
         Console.Write("Enter years of service: ");
         int years = Convert.ToInt32(Console.ReadLine());
 

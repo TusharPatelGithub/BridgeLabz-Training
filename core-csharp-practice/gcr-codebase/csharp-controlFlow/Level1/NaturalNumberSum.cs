@@ -6,7 +6,6 @@ class NaturalNumberSum
     {
         Console.Write("Enter number: ");
         int number = Convert.ToInt32(Console.ReadLine());
-
         if (number > 0)
         {
             int sum = number * (number + 1) / 2;

@@ -6,7 +6,6 @@ class SumOfNaturalNumbersForLoop
     {
         Console.Write("Enter a number: ");
         int n = Convert.ToInt32(Console.ReadLine());
-
         if (n > 0)
         {
             int sumByFormula = n * (n + 1) / 2;
@@ -17,10 +16,8 @@ class SumOfNaturalNumbersForLoop
             {
                 sumByLoop += i;
             }
-
             Console.WriteLine("Sum using formula = " + sumByFormula);
             Console.WriteLine("Sum using for loop = " + sumByLoop);
-
             if (sumByFormula == sumByLoop)
             {
                 Console.WriteLine("Both computations are correct.");

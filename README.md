@@ -176,3 +176,55 @@
 
 > Next, we will learn about **Arrays and Strings in C#**  
 > and write programs using loops and conditions.
+## 📅 **Day 6 — Arrays in C#**
+
+> **Date:** _23/12/2025_  
+> **Topic:** One-Dimensional & Two-Dimensional Arrays in C#
+
+### 🧩 What I Learned
+
+- 📦 **Arrays in C#:**
+  - Storing multiple values of the same data type
+  - Fixed-size nature of arrays
+  - Index-based access (0-based indexing)
+
+- 📏 **Types of Arrays:**
+  - One-Dimensional Array
+  - Two-Dimensional Array (Matrix)
+
+- 🔁 **Traversing Arrays:**
+  - Using `for` loop with arrays
+  - Understanding `Length` property
+  - Using `GetLength(0)` and `GetLength(1)` for 2D arrays
+
+- 🧮 **User Input with Arrays:**
+  - Taking array elements using `Console.ReadLine()`
+  - Handling input row-wise and column-wise for 2D arrays
+
+- ⚠️ **Common Errors & Fixes:**
+  - Understanding `IndexOutOfRangeException`
+  - Difference between `Length` and `GetLength()`
+
+---
+
+### 🧪 Task for the Day
+
+> - Write programs to:
+>   - Store and display elements of a **1D array**
+>   - Take user input and print array elements
+>   - Work with **2D arrays (matrix input & output)**
+>   - Find sum of array elements
+>   - Understand and fix **index out of range errors**
+> - Organize programs inside **Array/level1** folder
+> - Run programs using **dotnet run**
+
+---
+
+### 🧭 What’s Next
+
+> Next, we will learn about **Strings in C#**  
+> and perform operations like string comparison, reversal, and manipulation.
+
+---
+
+> ✅ **Arrays help in efficient data storage and form the base for advanced data structures.**

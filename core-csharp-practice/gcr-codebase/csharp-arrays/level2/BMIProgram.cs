@@ -6,23 +6,18 @@ class BMIProgram
     {
         Console.Write("Enter number of persons: ");
         int n = Convert.ToInt32(Console.ReadLine());
-
         double[] height = new double[n];
         double[] weight = new double[n];
         double[] bmi = new double[n];
         string[] status = new string[n];
-
         for (int i = 0; i < n; i++)
         {
             Console.WriteLine("\nEnter details for Person " + (i + 1));
-
             Console.Write("Enter height (in meters): ");
             height[i] = Convert.ToDouble(Console.ReadLine());
-
             Console.Write("Enter weight (in kg): ");
             weight[i] = Convert.ToDouble(Console.ReadLine());
         }
-
         for (int i = 0; i < n; i++)
         {
             bmi[i] = weight[i] / (height[i] * height[i]);
@@ -36,7 +31,6 @@ class BMIProgram
             else
                 status[i] = "Obese";
         }
-
         Console.WriteLine("\n--- BMI Report ---");
         for (int i = 0; i < n; i++)
         {

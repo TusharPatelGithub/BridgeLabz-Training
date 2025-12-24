@@ -5,7 +5,6 @@ class CompanyBonus
     static void Main()
     {
         int count = 10;
-
         double[] pay = new double[count];
         double[] experience = new double[count];
         double[] incentive = new double[count];

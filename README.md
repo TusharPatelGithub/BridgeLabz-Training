@@ -181,7 +181,7 @@
 ### **📅 Day 6 — Arrays in C#**
 
 
-# Date: 24/12/2025
+## Date: 24/12/2025
 Topic: Arrays
 
 🧩 What I Learned
@@ -215,3 +215,41 @@ Execute programs using dotnet run
 🧭 What’s Next
 
 Next, I will learn about Strings and String Operations in C#.
+
+ ---
+
+### 📅 Day 7 — Strings in C#
+
+## Date: 26/12/2025
+Topic: String Handling and String Methods in C#
+
+🧩 What I Learned
+
+🔤 Introduction to Strings
+
+Strings are used to store text data.
+
+Strings are immutable in C# (cannot be changed once created).
+
+🧵 String Declaration & Initialization
+
+Creating strings using literals and user input.
+
+Understanding how strings are stored in memory.
+
+
+Organize all programs inside level1 folder
+
+🧭 What’s Next
+
+## Next, we will start Object-Oriented Programming (OOPs) concepts:
+
+Class and Object
+
+Methods
+
+Constructors
+
+Encapsulation
+
+Introduction to Inheritance

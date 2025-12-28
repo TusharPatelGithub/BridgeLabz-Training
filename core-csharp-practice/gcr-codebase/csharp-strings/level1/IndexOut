@@ -1,0 +1,17 @@
+using System;
+
+class IndexOut
+{
+    static void Main()
+    {
+        try
+        {
+            int[] numbers = { 10, 20, 30 };
+            Console.WriteLine(numbers[5]);
+        }
+        catch (IndexOutOfRangeException ex)
+        {
+            Console.WriteLine("Exception Caught: " + ex.Message);
+        }
+    }
+}

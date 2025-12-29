@@ -238,18 +238,41 @@ Creating strings using literals and user input.
 Understanding how strings are stored in memory.
 
 
-Organize all programs inside level1 folder
+----
 
-🧭 What’s Next
 
-## Next, we will start Object-Oriented Programming (OOPs) concepts:
+### 📅 Day 8 — Scenario Based Problem Solving
+## Date: 29/12/2025
+## 🧠 What I Learned
 
-Class and Object
+Understood how to analyze real-life problem scenarios
 
-Methods
+Converted problem statements into logical conditions
 
-Constructors
+Applied if–else, loops, and input validation
 
-Encapsulation
+Handled edge cases like invalid or unexpected inputs
 
-Introduction to Inheritance
+🧩 Topics Covered
+
+Scenario-based programming questions
+
+Input validation (negative values, range checking)
+
+Logical conditions (if, else if, else)
+
+Loop usage for repeated input
+
+Error prevention using proper conditions
+
+🧪 Practice Examples
+
+Validating marks (0–100)
+
+Handling invalid user inputs
+
+Applying conditions based on real-life rules
+
+🎯 Key Learning Outcome
+
+Learned how to think like a programmer by handling real-world conditions instead of just writing syntax-based code.

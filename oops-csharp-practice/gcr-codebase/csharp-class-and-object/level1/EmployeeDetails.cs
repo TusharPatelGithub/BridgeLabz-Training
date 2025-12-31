@@ -3,7 +3,7 @@ using System;
 using System;
 
 class Employee{
-    public string Name = "t ushar";
+    public string Name = "tushar";
     public int Id=1234;
     public double Salary=1234;
 

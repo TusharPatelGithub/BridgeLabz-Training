@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "oops-csharp-practice", "oops-csharp-practice", "{FE507705-3756-6C5F-0A3D-487952528115}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scenario-based", "scenario-based", "{0E8A51A0-454F-BB6F-BDFB-33F39EAA6B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank Account Manager", "oops-csharp-practice\scenario-based\Bank account manager\Bank Account Manager.csproj", "{10E5C552-30D1-F8B6-F94A-29502B71F062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E5C552-30D1-F8B6-F94A-29502B71F062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E5C552-30D1-F8B6-F94A-29502B71F062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E5C552-30D1-F8B6-F94A-29502B71F062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E5C552-30D1-F8B6-F94A-29502B71F062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E8A51A0-454F-BB6F-BDFB-33F39EAA6B33} = {FE507705-3756-6C5F-0A3D-487952528115}
+		{10E5C552-30D1-F8B6-F94A-29502B71F062} = {0E8A51A0-454F-BB6F-BDFB-33F39EAA6B33}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A2DC51-A697-4E8E-B962-C5E8EA9CC63C}
+	EndGlobalSection
+EndGlobal

@@ -1,5 +1,5 @@
 # BridgeLabz-Training
-📅 Day 1 – Introduction to OOP & Classes (29/12/2025)
+ 📅 Day 1 – Introduction to OOP & Classes (29/12/2025)
 🔹 Topics Covered
 
 Introduction to Object-Oriented Programming
@@ -93,3 +93,142 @@ Book → EBook example
 Vehicle → Car inheritance
 
 Demonstrating access levels (public, protected, private)
+📅 Day 4 — Interfaces & Abstraction
+
+Topics Learned:
+
+What is Abstraction
+
+Why we use Interfaces
+
+Difference between abstract class and interface
+
+How interfaces enforce method implementation
+
+Practice & Scenarios Solved:
+
+Designed systems using interfaces like:
+
+IRentable
+
+IPayable
+
+IFlyable, ISwimmable
+
+Implemented interface methods in child classes
+
+Understood real-world use of abstraction (billing, rental, behaviors)
+
+Key Takeaway:
+
+Interfaces help hide implementation and enforce common behavior.
+
+📅 Day 5 — Inheritance with Real-World Scenarios
+
+Topics Learned:
+
+Inheritance (Base class → Derived class)
+
+Code reusability using base classes
+
+protected access modifier
+
+Practice & Scenarios Solved:
+
+Vehicle Rental System
+
+Vehicle → Bike, Car, Truck
+
+Hospital Management System
+
+Patient → InPatient, OutPatient
+
+Bird Sanctuary System
+
+Bird → Eagle, Duck, Penguin
+
+Key Takeaway:
+
+Inheritance helps model real-world relationships clearly.
+
+📅 Day 6 — Polymorphism (Runtime Behavior)
+
+Topics Learned:
+
+Method overriding
+
+Base class reference holding child class objects
+
+Runtime method resolution
+
+Practice & Scenarios Solved:
+
+Overridden DisplayInfo() method in multiple systems
+
+Used base class arrays like:
+
+Bird[]
+
+Vehicle[]
+
+Patient[]
+
+Observed different behavior for same method call
+
+Key Takeaway:
+
+Same method call, different behavior = Polymorphism.
+
+📅 Day 7 — Interface-Based Polymorphism & Type Checking
+
+Topics Learned:
+
+Multiple interface implementation
+
+is keyword for type checking
+
+Casting interface references
+
+Practice & Scenarios Solved:
+
+Bird Sanctuary:
+
+Checked is IFlyable
+
+Checked is ISwimmable
+
+Dynamically called methods based on interface support
+
+Combined inheritance + interfaces effectively
+
+Key Takeaway:
+
+Interface checking enables flexible and dynamic behavior.
+
+📅 Day 8 — Scenario-Based Array Management
+
+Topics Learned:
+
+Using arrays of objects
+
+Filtering and searching data
+
+String handling using string.Contains
+
+DateTime comparison
+
+Practice & Scenarios Solved:
+
+Customer Service Call Log Manager
+
+Stored logs in array
+
+Keyword-based search
+
+Time-range filtering
+
+Designed manager classes to handle logic
+
+Key Takeaway:
+
+Arrays + OOP concepts help build real-world systems.

@@ -1,0 +1,14 @@
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\bin\Debug\net8.0\Hospital Patient Management System.exe
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\bin\Debug\net8.0\Hospital Patient Management System.deps.json
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\bin\Debug\net8.0\Hospital Patient Management System.runtimeconfig.json
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\bin\Debug\net8.0\Hospital Patient Management System.dll
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\bin\Debug\net8.0\Hospital Patient Management System.pdb
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\obj\Debug\net8.0\Hospital Patient Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\obj\Debug\net8.0\Hospital Patient Management System.AssemblyInfoInputs.cache
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\obj\Debug\net8.0\Hospital Patient Management System.AssemblyInfo.cs
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\obj\Debug\net8.0\Hospital Patient Management System.csproj.CoreCompileInputs.cache
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\obj\Debug\net8.0\Hospital Patient Management System.dll
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\obj\Debug\net8.0\refint\Hospital Patient Management System.dll
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\obj\Debug\net8.0\Hospital Patient Management System.pdb
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\obj\Debug\net8.0\Hospital Patient Management System.genruntimeconfig.cache
+D:\practice\Hospital Patient Management System\Hospital Patient Management System\obj\Debug\net8.0\ref\Hospital Patient Management System.dll

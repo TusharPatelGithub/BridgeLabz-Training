@@ -1,0 +1,14 @@
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\bin\Debug\net8.0\Customer Service Call Log Manager.exe
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\bin\Debug\net8.0\Customer Service Call Log Manager.deps.json
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\bin\Debug\net8.0\Customer Service Call Log Manager.runtimeconfig.json
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\bin\Debug\net8.0\Customer Service Call Log Manager.dll
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\bin\Debug\net8.0\Customer Service Call Log Manager.pdb
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\obj\Debug\net8.0\Customer Service Call Log Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\obj\Debug\net8.0\Customer Service Call Log Manager.AssemblyInfoInputs.cache
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\obj\Debug\net8.0\Customer Service Call Log Manager.AssemblyInfo.cs
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\obj\Debug\net8.0\Customer Service Call Log Manager.csproj.CoreCompileInputs.cache
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\obj\Debug\net8.0\Customer Service Call Log Manager.dll
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\obj\Debug\net8.0\refint\Customer Service Call Log Manager.dll
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\obj\Debug\net8.0\Customer Service Call Log Manager.pdb
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\obj\Debug\net8.0\Customer Service Call Log Manager.genruntimeconfig.cache
+D:\practice\Customer Service Call Log Manager\Customer Service Call Log Manager\obj\Debug\net8.0\ref\Customer Service Call Log Manager.dll

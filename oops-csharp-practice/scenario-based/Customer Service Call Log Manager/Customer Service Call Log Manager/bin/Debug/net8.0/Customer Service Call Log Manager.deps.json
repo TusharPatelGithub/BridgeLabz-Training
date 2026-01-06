@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Customer Service Call Log Manager/1.0.0": {
+        "runtime": {
+          "Customer Service Call Log Manager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Customer Service Call Log Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

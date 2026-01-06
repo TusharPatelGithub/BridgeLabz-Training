@@ -1,0 +1,14 @@
+D:\practice\Vehicle Management System\Vehicle Management System\bin\Debug\net8.0\Vehicle Management System.exe
+D:\practice\Vehicle Management System\Vehicle Management System\bin\Debug\net8.0\Vehicle Management System.deps.json
+D:\practice\Vehicle Management System\Vehicle Management System\bin\Debug\net8.0\Vehicle Management System.runtimeconfig.json
+D:\practice\Vehicle Management System\Vehicle Management System\bin\Debug\net8.0\Vehicle Management System.dll
+D:\practice\Vehicle Management System\Vehicle Management System\bin\Debug\net8.0\Vehicle Management System.pdb
+D:\practice\Vehicle Management System\Vehicle Management System\obj\Debug\net8.0\Vehicle Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\Vehicle Management System\Vehicle Management System\obj\Debug\net8.0\Vehicle Management System.AssemblyInfoInputs.cache
+D:\practice\Vehicle Management System\Vehicle Management System\obj\Debug\net8.0\Vehicle Management System.AssemblyInfo.cs
+D:\practice\Vehicle Management System\Vehicle Management System\obj\Debug\net8.0\Vehicle Management System.csproj.CoreCompileInputs.cache
+D:\practice\Vehicle Management System\Vehicle Management System\obj\Debug\net8.0\Vehicle Management System.dll
+D:\practice\Vehicle Management System\Vehicle Management System\obj\Debug\net8.0\refint\Vehicle Management System.dll
+D:\practice\Vehicle Management System\Vehicle Management System\obj\Debug\net8.0\Vehicle Management System.pdb
+D:\practice\Vehicle Management System\Vehicle Management System\obj\Debug\net8.0\Vehicle Management System.genruntimeconfig.cache
+D:\practice\Vehicle Management System\Vehicle Management System\obj\Debug\net8.0\ref\Vehicle Management System.dll

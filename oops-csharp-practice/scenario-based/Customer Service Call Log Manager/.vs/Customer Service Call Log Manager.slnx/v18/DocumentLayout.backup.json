@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practice\\Customer Service Call Log Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E092EC-C809-45E2-9937-DB2B4E6B683F}|Customer Service Call Log Manager\\Customer Service Call Log Manager.csproj|d:\\practice\\customer service call log manager\\customer service call log manager\\calllogapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E092EC-C809-45E2-9937-DB2B4E6B683F}|Customer Service Call Log Manager\\Customer Service Call Log Manager.csproj|solutionrelative:customer service call log manager\\calllogapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E092EC-C809-45E2-9937-DB2B4E6B683F}|Customer Service Call Log Manager\\Customer Service Call Log Manager.csproj|d:\\practice\\customer service call log manager\\customer service call log manager\\calllogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E092EC-C809-45E2-9937-DB2B4E6B683F}|Customer Service Call Log Manager\\Customer Service Call Log Manager.csproj|solutionrelative:customer service call log manager\\calllogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E092EC-C809-45E2-9937-DB2B4E6B683F}|Customer Service Call Log Manager\\Customer Service Call Log Manager.csproj|d:\\practice\\customer service call log manager\\customer service call log manager\\calllog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E092EC-C809-45E2-9937-DB2B4E6B683F}|Customer Service Call Log Manager\\Customer Service Call Log Manager.csproj|solutionrelative:customer service call log manager\\calllog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E092EC-C809-45E2-9937-DB2B4E6B683F}|Customer Service Call Log Manager\\Customer Service Call Log Manager.csproj|d:\\practice\\customer service call log manager\\customer service call log manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E092EC-C809-45E2-9937-DB2B4E6B683F}|Customer Service Call Log Manager\\Customer Service Call Log Manager.csproj|solutionrelative:customer service call log manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CallLogApp.cs",
+              "DocumentMoniker": "D:\\practice\\Customer Service Call Log Manager\\Customer Service Call Log Manager\\CallLogApp.cs",
+              "RelativeDocumentMoniker": "Customer Service Call Log Manager\\CallLogApp.cs",
+              "ToolTip": "D:\\practice\\Customer Service Call Log Manager\\Customer Service Call Log Manager\\CallLogApp.cs*",
+              "RelativeToolTip": "Customer Service Call Log Manager\\CallLogApp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:05:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallLogManager.cs",
+              "DocumentMoniker": "D:\\practice\\Customer Service Call Log Manager\\Customer Service Call Log Manager\\CallLogManager.cs",
+              "RelativeDocumentMoniker": "Customer Service Call Log Manager\\CallLogManager.cs",
+              "ToolTip": "D:\\practice\\Customer Service Call Log Manager\\Customer Service Call Log Manager\\CallLogManager.cs*",
+              "RelativeToolTip": "Customer Service Call Log Manager\\CallLogManager.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:04:11.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CallLog.cs",
+              "DocumentMoniker": "D:\\practice\\Customer Service Call Log Manager\\Customer Service Call Log Manager\\CallLog.cs",
+              "RelativeDocumentMoniker": "Customer Service Call Log Manager\\CallLog.cs",
+              "ToolTip": "D:\\practice\\Customer Service Call Log Manager\\Customer Service Call Log Manager\\CallLog.cs*",
+              "RelativeToolTip": "Customer Service Call Log Manager\\CallLog.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:03:20.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practice\\Customer Service Call Log Manager\\Customer Service Call Log Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Customer Service Call Log Manager\\Program.cs",
+              "ToolTip": "D:\\practice\\Customer Service Call Log Manager\\Customer Service Call Log Manager\\Program.cs",
+              "RelativeToolTip": "Customer Service Call Log Manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:02:28.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

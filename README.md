@@ -232,3 +232,55 @@ Designed manager classes to handle logic
 Key Takeaway:
 
 Arrays + OOP concepts help build real-world systems.
+
+📅 Day 9 — OOP Concepts: Abstract Class, Interface & Polymorphism
+
+🧩 What I Learned
+
+🧱 Abstract Classes
+
+Creating abstract classes with abstract and concrete methods
+
+Using abstract methods to enforce implementation in child classes
+
+🔌 Interfaces
+
+Defining contracts using interfaces
+
+Implementing interfaces in classes
+
+Using interfaces to add extra capabilities (like Loan, GPS, Discount, Medical Records)
+
+🔐 Encapsulation
+
+Making fields private
+
+Accessing data using properties and methods
+
+Protecting sensitive data (medical history, balance, policy numbers)
+
+🔁 Polymorphism
+
+Using base class references to handle multiple derived objects
+
+Runtime method overriding
+
+Dynamic behavior using abstract methods
+
+🧪 Scenarios Practiced
+
+Employee Management System
+
+Banking System
+
+Library Management System
+
+Hospital Patient Management System
+
+Online Food Delivery System
+
+Vehicle Rental System
+
+Ride-Hailing Application
+
+E-Commerce Platform

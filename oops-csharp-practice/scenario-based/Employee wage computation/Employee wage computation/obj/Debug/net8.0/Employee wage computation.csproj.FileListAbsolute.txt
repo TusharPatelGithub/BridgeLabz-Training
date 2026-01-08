@@ -1,0 +1,14 @@
+D:\practice\Employee wage computation\Employee wage computation\obj\Debug\net8.0\Employee wage computation.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\Employee wage computation\Employee wage computation\obj\Debug\net8.0\Employee wage computation.AssemblyInfoInputs.cache
+D:\practice\Employee wage computation\Employee wage computation\obj\Debug\net8.0\Employee wage computation.AssemblyInfo.cs
+D:\practice\Employee wage computation\Employee wage computation\obj\Debug\net8.0\Employee wage computation.csproj.CoreCompileInputs.cache
+D:\practice\Employee wage computation\Employee wage computation\bin\Debug\net8.0\Employee wage computation.exe
+D:\practice\Employee wage computation\Employee wage computation\bin\Debug\net8.0\Employee wage computation.deps.json
+D:\practice\Employee wage computation\Employee wage computation\bin\Debug\net8.0\Employee wage computation.runtimeconfig.json
+D:\practice\Employee wage computation\Employee wage computation\bin\Debug\net8.0\Employee wage computation.dll
+D:\practice\Employee wage computation\Employee wage computation\bin\Debug\net8.0\Employee wage computation.pdb
+D:\practice\Employee wage computation\Employee wage computation\obj\Debug\net8.0\Employee wage computation.dll
+D:\practice\Employee wage computation\Employee wage computation\obj\Debug\net8.0\refint\Employee wage computation.dll
+D:\practice\Employee wage computation\Employee wage computation\obj\Debug\net8.0\Employee wage computation.pdb
+D:\practice\Employee wage computation\Employee wage computation\obj\Debug\net8.0\Employee wage computation.genruntimeconfig.cache
+D:\practice\Employee wage computation\Employee wage computation\obj\Debug\net8.0\ref\Employee wage computation.dll

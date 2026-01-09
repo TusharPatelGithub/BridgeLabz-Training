@@ -29,3 +29,65 @@ Singly Linked List
 Doubly Linked List
 
 Circular Linked List
+
+
+Day 2 – Data Structures & Algorithms (DSA)
+🔹 Topic: Stack, Queue & Linked List (Custom Implementation)
+📌 Objective
+
+Understand core linear data structures
+
+Implement custom Stack, Queue, and Linked List without using built-in classes
+
+Apply these data structures to solve a real-world problem (ATM Dispenser Logic)
+
+🧱 Data Structures Implemented
+1️⃣ Singly Linked List
+
+Created using a Node class
+
+Used to store ATM denominations
+
+Supports adding elements at the end
+
+Concepts Used:
+
+Node traversal
+
+Dynamic memory structure
+
+2️⃣ Stack (LIFO)
+
+Implemented using Linked List
+
+Operations:
+
+Push
+
+Pop
+
+IsEmpty
+
+Usage in Problem:
+
+Used to apply Greedy strategy
+
+Helps dispense maximum denomination first
+
+3️⃣ Queue (FIFO)
+
+Implemented using Linked List
+
+Operations:
+
+Enqueue
+
+Dequeue
+
+IsEmpty
+
+Usage in Problem:
+
+Maintains order of dispensed notes
+
+Used for clean output display

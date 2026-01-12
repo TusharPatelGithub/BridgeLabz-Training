@@ -1,6 +1,6 @@
 using System;
 
-class CountingSortStudentAges
+class Counting
 {
     static void Main()
     {

@@ -1,0 +1,15 @@
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\bin\Debug\net10.0\Custom Furniture Manufacturing.exe
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\bin\Debug\net10.0\Custom Furniture Manufacturing.deps.json
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\bin\Debug\net10.0\Custom Furniture Manufacturing.runtimeconfig.json
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\bin\Debug\net10.0\Custom Furniture Manufacturing.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\bin\Debug\net10.0\Custom Furniture Manufacturing.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\obj\Debug\net10.0\Custom Furniture Manufacturing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\obj\Debug\net10.0\Custom Furniture Manufacturing.AssemblyInfoInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\obj\Debug\net10.0\Custom Furniture Manufacturing.AssemblyInfo.cs
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\obj\Debug\net10.0\Custom Furniture Manufacturing.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\obj\Debug\net10.0\Custom Furniture Manufacturing.sourcelink.json
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\obj\Debug\net10.0\Custom Furniture Manufacturing.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\obj\Debug\net10.0\refint\Custom Furniture Manufacturing.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\obj\Debug\net10.0\Custom Furniture Manufacturing.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\obj\Debug\net10.0\Custom Furniture Manufacturing.genruntimeconfig.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Custom Furniture Manufacturing\obj\Debug\net10.0\ref\Custom Furniture Manufacturing.dll

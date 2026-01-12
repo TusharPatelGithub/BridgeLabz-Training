@@ -1,0 +1,15 @@
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\bin\Debug\net10.0\Loan Approval Automation.exe
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\bin\Debug\net10.0\Loan Approval Automation.deps.json
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\bin\Debug\net10.0\Loan Approval Automation.runtimeconfig.json
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\bin\Debug\net10.0\Loan Approval Automation.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\bin\Debug\net10.0\Loan Approval Automation.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\obj\Debug\net10.0\Loan Approval Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\obj\Debug\net10.0\Loan Approval Automation.AssemblyInfoInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\obj\Debug\net10.0\Loan Approval Automation.AssemblyInfo.cs
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\obj\Debug\net10.0\Loan Approval Automation.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\obj\Debug\net10.0\Loan Approval Automation.sourcelink.json
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\obj\Debug\net10.0\Loan Approval Automation.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\obj\Debug\net10.0\refint\Loan Approval Automation.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\obj\Debug\net10.0\Loan Approval Automation.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\obj\Debug\net10.0\Loan Approval Automation.genruntimeconfig.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\oops-csharp-practice\scenario-based\Loan Approval Automation\obj\Debug\net10.0\ref\Loan Approval Automation.dll

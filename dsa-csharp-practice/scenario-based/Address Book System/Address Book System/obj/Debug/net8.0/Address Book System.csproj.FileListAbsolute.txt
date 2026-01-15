@@ -1,0 +1,14 @@
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\bin\Debug\net8.0\Address Book System.exe
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\bin\Debug\net8.0\Address Book System.deps.json
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\bin\Debug\net8.0\Address Book System.runtimeconfig.json
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\bin\Debug\net8.0\Address Book System.dll
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\bin\Debug\net8.0\Address Book System.pdb
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\obj\Debug\net8.0\Address Book System.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\obj\Debug\net8.0\Address Book System.AssemblyInfoInputs.cache
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\obj\Debug\net8.0\Address Book System.AssemblyInfo.cs
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\obj\Debug\net8.0\Address Book System.csproj.CoreCompileInputs.cache
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\obj\Debug\net8.0\Address Book System.dll
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\obj\Debug\net8.0\refint\Address Book System.dll
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\obj\Debug\net8.0\Address Book System.pdb
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\obj\Debug\net8.0\Address Book System.genruntimeconfig.cache
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Address Book System\Address Book System\obj\Debug\net8.0\ref\Address Book System.dll

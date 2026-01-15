@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6307FB8-3A61-41CE-BBFA-4C794D890704}|Address Book System\\Address Book System.csproj|d:\\practice\\csharp-encapsulation-inheritance-abstract-interface\\address book system\\address book system\\addressbookmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6307FB8-3A61-41CE-BBFA-4C794D890704}|Address Book System\\Address Book System.csproj|solutionrelative:address book system\\addressbookmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6307FB8-3A61-41CE-BBFA-4C794D890704}|Address Book System\\Address Book System.csproj|d:\\practice\\csharp-encapsulation-inheritance-abstract-interface\\address book system\\address book system\\addressbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6307FB8-3A61-41CE-BBFA-4C794D890704}|Address Book System\\Address Book System.csproj|solutionrelative:address book system\\addressbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6307FB8-3A61-41CE-BBFA-4C794D890704}|Address Book System\\Address Book System.csproj|d:\\practice\\csharp-encapsulation-inheritance-abstract-interface\\address book system\\address book system\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6307FB8-3A61-41CE-BBFA-4C794D890704}|Address Book System\\Address Book System.csproj|solutionrelative:address book system\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6307FB8-3A61-41CE-BBFA-4C794D890704}|Address Book System\\Address Book System.csproj|d:\\practice\\csharp-encapsulation-inheritance-abstract-interface\\address book system\\address book system\\iaddressbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6307FB8-3A61-41CE-BBFA-4C794D890704}|Address Book System\\Address Book System.csproj|solutionrelative:address book system\\iaddressbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6307FB8-3A61-41CE-BBFA-4C794D890704}|Address Book System\\Address Book System.csproj|d:\\practice\\csharp-encapsulation-inheritance-abstract-interface\\address book system\\address book system\\contactbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6307FB8-3A61-41CE-BBFA-4C794D890704}|Address Book System\\Address Book System.csproj|solutionrelative:address book system\\contactbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddressBook.cs",
+              "DocumentMoniker": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\Address Book System\\AddressBook.cs",
+              "RelativeDocumentMoniker": "Address Book System\\AddressBook.cs",
+              "ToolTip": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\Address Book System\\AddressBook.cs",
+              "RelativeToolTip": "Address Book System\\AddressBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:10:55.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\Address Book System\\Contact.cs",
+              "RelativeDocumentMoniker": "Address Book System\\Contact.cs",
+              "ToolTip": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\Address Book System\\Contact.cs",
+              "RelativeToolTip": "Address Book System\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:10:23.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAddressBook.cs",
+              "DocumentMoniker": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\Address Book System\\IAddressBook.cs",
+              "RelativeDocumentMoniker": "Address Book System\\IAddressBook.cs",
+              "ToolTip": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\Address Book System\\IAddressBook.cs",
+              "RelativeToolTip": "Address Book System\\IAddressBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:09:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactBase.cs",
+              "DocumentMoniker": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\Address Book System\\ContactBase.cs",
+              "RelativeDocumentMoniker": "Address Book System\\ContactBase.cs",
+              "ToolTip": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\Address Book System\\ContactBase.cs",
+              "RelativeToolTip": "Address Book System\\ContactBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:08:12.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressBookMain.cs",
+              "DocumentMoniker": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\Address Book System\\AddressBookMain.cs",
+              "RelativeDocumentMoniker": "Address Book System\\AddressBookMain.cs",
+              "ToolTip": "D:\\practice\\csharp-Encapsulation-Inheritance-Abstract-Interface\\Address Book System\\Address Book System\\AddressBookMain.cs",
+              "RelativeToolTip": "Address Book System\\AddressBookMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:07:44.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

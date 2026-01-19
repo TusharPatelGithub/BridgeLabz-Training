@@ -1,0 +1,29 @@
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\bin\Debug\net8.0\Flash Deals.exe
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\bin\Debug\net8.0\Flash Deals.deps.json
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\bin\Debug\net8.0\Flash Deals.runtimeconfig.json
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\bin\Debug\net8.0\Flash Deals.dll
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\bin\Debug\net8.0\Flash Deals.pdb
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\obj\Debug\net8.0\Flash Deals.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\obj\Debug\net8.0\Flash Deals.AssemblyInfoInputs.cache
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\obj\Debug\net8.0\Flash Deals.AssemblyInfo.cs
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\obj\Debug\net8.0\Flash Deals.csproj.CoreCompileInputs.cache
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\obj\Debug\net8.0\Flash Deals.dll
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\obj\Debug\net8.0\refint\Flash Deals.dll
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\obj\Debug\net8.0\Flash Deals.pdb
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\obj\Debug\net8.0\Flash Deals.genruntimeconfig.cache
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Flash Deals\Flash Deals\obj\Debug\net8.0\ref\Flash Deals.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\bin\Debug\net8.0\Flash Deals.exe
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\bin\Debug\net8.0\Flash Deals.deps.json
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\bin\Debug\net8.0\Flash Deals.runtimeconfig.json
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\bin\Debug\net8.0\Flash Deals.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\bin\Debug\net8.0\Flash Deals.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\obj\Debug\net8.0\Flash Deals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\obj\Debug\net8.0\Flash Deals.AssemblyInfoInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\obj\Debug\net8.0\Flash Deals.AssemblyInfo.cs
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\obj\Debug\net8.0\Flash Deals.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\obj\Debug\net8.0\Flash Deals.sourcelink.json
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\obj\Debug\net8.0\Flash Deals.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\obj\Debug\net8.0\refint\Flash Deals.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\obj\Debug\net8.0\Flash Deals.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\obj\Debug\net8.0\Flash Deals.genruntimeconfig.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Flash Deals\obj\Debug\net8.0\ref\Flash Deals.dll

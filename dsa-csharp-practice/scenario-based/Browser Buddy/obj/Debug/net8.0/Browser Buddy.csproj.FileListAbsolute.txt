@@ -1,0 +1,44 @@
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\bin\Debug\net8.0\Browser Buddy.exe
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\bin\Debug\net8.0\Browser Buddy.deps.json
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\bin\Debug\net8.0\Browser Buddy.runtimeconfig.json
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\bin\Debug\net8.0\Browser Buddy.dll
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\bin\Debug\net8.0\Browser Buddy.pdb
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.AssemblyInfoInputs.cache
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.AssemblyInfo.cs
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.csproj.CoreCompileInputs.cache
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.dll
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\obj\Debug\net8.0\refint\Browser Buddy.dll
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.pdb
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.genruntimeconfig.cache
+D:\practice\csharp-Encapsulation-Inheritance-Abstract-Interface\Browser Buddy\Browser Buddy\obj\Debug\net8.0\ref\Browser Buddy.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\bin\Debug\net8.0\Browser Buddy.exe
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\bin\Debug\net8.0\Browser Buddy.deps.json
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\bin\Debug\net8.0\Browser Buddy.runtimeconfig.json
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\bin\Debug\net8.0\Browser Buddy.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\bin\Debug\net8.0\Browser Buddy.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.AssemblyInfoInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.AssemblyInfo.cs
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.sourcelink.json
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\obj\Debug\net8.0\refint\Browser Buddy.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\obj\Debug\net8.0\Browser Buddy.genruntimeconfig.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\Browser Buddy\obj\Debug\net8.0\ref\Browser Buddy.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\bin\Debug\net8.0\Browser Buddy.exe
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\bin\Debug\net8.0\Browser Buddy.deps.json
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\bin\Debug\net8.0\Browser Buddy.runtimeconfig.json
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\bin\Debug\net8.0\Browser Buddy.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\bin\Debug\net8.0\Browser Buddy.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\obj\Debug\net8.0\Browser Buddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\obj\Debug\net8.0\Browser Buddy.AssemblyInfoInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\obj\Debug\net8.0\Browser Buddy.AssemblyInfo.cs
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\obj\Debug\net8.0\Browser Buddy.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\obj\Debug\net8.0\Browser Buddy.sourcelink.json
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\obj\Debug\net8.0\Browser Buddy.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\obj\Debug\net8.0\refint\Browser Buddy.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\obj\Debug\net8.0\Browser Buddy.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\obj\Debug\net8.0\Browser Buddy.genruntimeconfig.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\dsa-csharp-practice\scenario-based\Browser Buddy\obj\Debug\net8.0\ref\Browser Buddy.dll

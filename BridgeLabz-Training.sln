@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ioprogramming-csharp-practice", "ioprogramming-csharp-practice", "{C33D9BE2-A00A-F3B3-FB9C-BEF29E9D905C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scenario-based", "scenario-based", "{EF1C9881-320B-0762-35F4-7BB7493A445C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamBuzz", "ioprogramming-csharp-practice\scenario-based\StreamBuzz\StreamBuzz.csproj", "{8B990EDA-41F6-D337-C861-8EA64CD98D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B990EDA-41F6-D337-C861-8EA64CD98D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B990EDA-41F6-D337-C861-8EA64CD98D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B990EDA-41F6-D337-C861-8EA64CD98D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B990EDA-41F6-D337-C861-8EA64CD98D40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF1C9881-320B-0762-35F4-7BB7493A445C} = {C33D9BE2-A00A-F3B3-FB9C-BEF29E9D905C}
+		{8B990EDA-41F6-D337-C861-8EA64CD98D40} = {EF1C9881-320B-0762-35F4-7BB7493A445C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FDBC823-C9F2-4397-8E53-6158AA0B739B}
+	EndGlobalSection
+EndGlobal

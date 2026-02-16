@@ -1,0 +1,30 @@
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\bin\Debug\net10.0\SystemDesignRunner.exe
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\bin\Debug\net10.0\SystemDesignRunner.deps.json
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\bin\Debug\net10.0\SystemDesignRunner.runtimeconfig.json
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\bin\Debug\net10.0\SystemDesignRunner.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\bin\Debug\net10.0\SystemDesignRunner.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.AssemblyInfoInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.AssemblyInfo.cs
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.sourcelink.json
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\obj\Debug\net10.0\refint\SystemDesignRunner.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.genruntimeconfig.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\gcr-codebase\System Design Problems\SystemDesignRunner\obj\Debug\net10.0\ref\SystemDesignRunner.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\bin\Debug\net10.0\SystemDesignRunner.exe
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\bin\Debug\net10.0\SystemDesignRunner.deps.json
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\bin\Debug\net10.0\SystemDesignRunner.runtimeconfig.json
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\bin\Debug\net10.0\SystemDesignRunner.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\bin\Debug\net10.0\SystemDesignRunner.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.AssemblyInfoInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.AssemblyInfo.cs
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.sourcelink.json
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\obj\Debug\net10.0\refint\SystemDesignRunner.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\obj\Debug\net10.0\SystemDesignRunner.genruntimeconfig.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\SystemDesignRunner\obj\Debug\net10.0\ref\SystemDesignRunner.dll

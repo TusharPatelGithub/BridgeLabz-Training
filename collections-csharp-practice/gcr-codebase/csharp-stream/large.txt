@@ -1,0 +1,4 @@
+info
+ERROR occurred
+success
+error found

@@ -1,0 +1,15 @@
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\bin\Debug\net10.0\Student_Record_Manager.exe
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\bin\Debug\net10.0\Student_Record_Manager.deps.json
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\bin\Debug\net10.0\Student_Record_Manager.runtimeconfig.json
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\bin\Debug\net10.0\Student_Record_Manager.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\bin\Debug\net10.0\Student_Record_Manager.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\obj\Debug\net10.0\Student_Record_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\obj\Debug\net10.0\Student_Record_Manager.AssemblyInfoInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\obj\Debug\net10.0\Student_Record_Manager.AssemblyInfo.cs
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\obj\Debug\net10.0\Student_Record_Manager.csproj.CoreCompileInputs.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\obj\Debug\net10.0\Student_Record_Manager.sourcelink.json
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\obj\Debug\net10.0\Student_Record_Manager.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\obj\Debug\net10.0\refint\Student_Record_Manager.dll
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\obj\Debug\net10.0\Student_Record_Manager.pdb
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\obj\Debug\net10.0\Student_Record_Manager.genruntimeconfig.cache
+C:\Users\91854\Desktop\BridgeLabz-Training\collections-csharp-practice\scenario-based\Student_Record_Manager\obj\Debug\net10.0\ref\Student_Record_Manager.dll

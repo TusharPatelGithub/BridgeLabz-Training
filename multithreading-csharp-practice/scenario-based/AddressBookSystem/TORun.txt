@@ -1,0 +1,12 @@
+To run the UC16 feature of writing into JSON Server do these steps: 
+Step 1: In Command prompt write this command in AddressBookSystem folder
+npm install -g json-server
+Step 2: Create a file of any name like : db.json
+and write:
+ {"contacts": []}
+ in that file
+Step 3: Write this command in command prompt:
+json-server --watch db.json --port 3000
+Will see something like this: 
+http://localhost:3000/contacts
+Run this url in your browser  

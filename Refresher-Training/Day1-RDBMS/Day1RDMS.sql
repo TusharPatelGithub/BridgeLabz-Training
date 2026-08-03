@@ -1,8 +1,6 @@
 CREATE DATABASE HealthClinicDB;
-GO
 
 USE HealthClinicDB;
-GO
 
 CREATE TABLE Patient (
     PatientID INT IDENTITY(1,1) PRIMARY KEY,
@@ -12,7 +10,7 @@ CREATE TABLE Patient (
     Phone NVARCHAR(15),
     Address NVARCHAR(255)
 );
-GO
+
 
 CREATE TABLE Doctor (
     DoctorID INT IDENTITY(1,1) PRIMARY KEY,
@@ -21,7 +19,6 @@ CREATE TABLE Doctor (
     Phone NVARCHAR(15),
     Email NVARCHAR(100)
 );
-GO
 
 CREATE TABLE Appointment (
     AppointmentID INT IDENTITY(1,1) PRIMARY KEY,
@@ -35,4 +32,3 @@ CREATE TABLE Appointment (
     CONSTRAINT FK_Appointment_Doctor FOREIGN KEY (DoctorID) 
         REFERENCES Doctor(DoctorID) ON DELETE CASCADE
 );
-GO

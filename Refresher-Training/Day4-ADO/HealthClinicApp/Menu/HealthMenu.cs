@@ -10,7 +10,7 @@ namespace HealthClinicApp.Menu
         private readonly DoctorMenu _doctorMenu;
         private readonly AppointmentMenu _appointmentMenu;
 
-        public MainMenu()
+        public HealthMenu()
         {
             // Wire up services -> menus.
             // Swap these for a DI container later if the project grows.

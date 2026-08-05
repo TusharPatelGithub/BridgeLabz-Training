@@ -1,6 +1,8 @@
 using System;
+using Microsoft.Data.SqlClient;
 using HealthClinicApp.Entity;
 using HealthClinicApp.Interface;
+using HealthClinicApp.Service;
 
 namespace HealthClinicApp.Menu
 {
@@ -50,7 +52,7 @@ namespace HealthClinicApp.Menu
             Console.Write("Email: ");
             string email = Console.ReadLine();
 
-            int specializationId = ReadInt("Specialization ID: ");
+            int specializationId = ReadSpecializationId();
 
             Doctor doctor = new Doctor(name, phone, email, specializationId);
             _doctorService.AddDoctor(doctor);
@@ -69,7 +71,7 @@ namespace HealthClinicApp.Menu
             Console.Write("Email: ");
             string email = Console.ReadLine();
 
-            int specializationId = ReadInt("Specialization ID: ");
+            int specializationId = ReadSpecializationId();
 
             Doctor doctor = new Doctor(id, name, phone, email, specializationId);
             _doctorService.UpdateDoctor(doctor);
@@ -78,7 +80,42 @@ namespace HealthClinicApp.Menu
         private void DeleteDoctor()
         {
             int id = ReadInt("Enter Doctor ID to delete: ");
+
+            int appointmentCount = GetAppointmentCountForDoctor(id);
+            if (appointmentCount > 0)
+            {
+                Console.WriteLine($"Cannot delete this doctor: {appointmentCount} appointment(s) still reference them.");
+                Console.WriteLine("Cancel or reassign those appointments first, then try again.");
+                return;
+            }
+
             _doctorService.DeleteDoctor(id);
+        }
+
+        // Checks the Appointment table so we can give a clear message
+        // instead of letting the FK constraint fail with a raw SQL error.
+        private int GetAppointmentCountForDoctor(int doctorId)
+        {
+            using (SqlConnection connection = DBConnectionUtillity.GetConnection())
+            {
+                try
+                {
+                    connection.Open();
+                    string query = "SELECT COUNT(*) FROM Appointment WHERE DoctorID = @DoctorID";
+                    using (SqlCommand cmd = new SqlCommand(query, connection))
+                    {
+                        cmd.Parameters.AddWithValue("@DoctorID", doctorId);
+                        return (int)cmd.ExecuteScalar();
+                    }
+                }
+                catch (SqlException ex)
+                {
+                    Console.WriteLine($"Could not check existing appointments: {ex.Message}");
+                    // If we can't verify, don't block the delete attempt —
+                    // the FK constraint will still protect the data either way.
+                    return 0;
+                }
+            }
         }
 
         private void ViewAllDoctors()
@@ -93,11 +130,68 @@ namespace HealthClinicApp.Menu
                 Console.WriteLine(d);
         }
 
+        // Shows the valid Specialization IDs so the user isn't guessing,
+        // then loops until a real numeric ID is entered.
+        private int ReadSpecializationId()
+        {
+            ShowSpecializations();
+
+            while (true)
+            {
+                Console.Write("Specialization ID: ");
+                string input = Console.ReadLine();
+
+                if (int.TryParse(input, out int specializationId))
+                {
+                    return specializationId;
+                }
+
+                Console.WriteLine("That's not a valid number. Please enter one of the Specialization IDs listed above.");
+            }
+        }
+
+        private void ShowSpecializations()
+        {
+            using (SqlConnection connection = DBConnectionUtillity.GetConnection())
+            {
+                try
+                {
+                    connection.Open();
+                    string query = "SELECT SpecializationID, SpecializationName FROM Specialization ORDER BY SpecializationID";
+                    using (SqlCommand cmd = new SqlCommand(query, connection))
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        Console.WriteLine("\nAvailable Specializations:");
+                        bool any = false;
+                        while (reader.Read())
+                        {
+                            any = true;
+                            Console.WriteLine($"  {reader["SpecializationID"]} - {reader["SpecializationName"]}");
+                        }
+                        if (!any)
+                        {
+                            Console.WriteLine("  (No specializations found — add rows to the Specialization table first.)");
+                        }
+                    }
+                }
+                catch (SqlException ex)
+                {
+                    Console.WriteLine($"Could not load specializations: {ex.Message}");
+                }
+            }
+        }
+
         private int ReadInt(string prompt)
         {
-            Console.Write(prompt);
-            int.TryParse(Console.ReadLine(), out int value);
-            return value;
+            while (true)
+            {
+                Console.Write(prompt);
+                if (int.TryParse(Console.ReadLine(), out int value))
+                {
+                    return value;
+                }
+                Console.WriteLine("Please enter a valid number.");
+            }
         }
     }
 }

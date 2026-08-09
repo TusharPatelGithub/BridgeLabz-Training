@@ -1,0 +1,38 @@
+@{
+    ViewData["Title"] = "My Greetings App";
+}
+
+<h2>My Greetings App</h2>
+
+<div>
+    <input type="text" id="nameInput" placeholder="Enter your name" />
+    <button id="greetBtn">Get Greeting</button>
+</div>
+
+<div id="result" style="margin-top: 20px; font-size: 1.2em;"></div>
+
+@section Scripts {
+<script>
+    document.getElementById("greetBtn").addEventListener("click", async () => {
+        const name = document.getElementById("nameInput").value.trim();
+        const resultDiv = document.getElementById("result");
+
+        if (!name) {
+            resultDiv.innerText = "Please enter a name.";
+            return;
+        }
+
+        try {
+            const response = await fetch(`/api/greetingapi/${encodeURIComponent(name)}`);
+            if (!response.ok) {
+                resultDiv.innerText = "Error: " + response.status;
+                return;
+            }
+            const data = await response.json();
+            resultDiv.innerText = data.message;
+        } catch (err) {
+            resultDiv.innerText = "Request failed: " + err;
+        }
+    });
+</script>
+}

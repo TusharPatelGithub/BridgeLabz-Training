@@ -98,7 +98,7 @@ Successfully learned the principles of database normalization and transformed th
 
 # Day 3 - SQL Triggers
 
-**Date:** 05/08/2026
+**Date:** 04/08/2026
 
 ## Objective
 
@@ -151,7 +151,7 @@ Successfully learned how SQL Triggers work and implemented triggers to automatic
 
 # Day 4 - ADO.NET (HealthClinicApp)
 
-**Date:** 06/08/2026
+**Date:** 05/08/2026
 
 ## Objective
 
@@ -206,7 +206,7 @@ Successfully developed a menu-driven **HealthClinicApp** using ADO.NET that conn
 
 # Day 5 - Basic ASP.NET Core Web API (WeatherApp)
 
-**Date:** 07/08/2026
+**Date:** 06/08/2026
 
 ## Objective
 
@@ -277,7 +277,7 @@ Successfully created and explored a basic ASP.NET Core Web API project, understo
 
 # Day 6 - ASP.NET Core MVC / Web API (My Greetings App)
 
-## Date: 10/08/2026
+## Date: 07/08/2026
 
 Objective
 
@@ -364,7 +364,7 @@ Successfully understood the fundamentals of the MVC pattern, REST APIs, HTTP pro
 
 # Day 7 - Minimal APIs in ASP.NET Core (Contacts App)
 
-## Date: 11/08/2026
+## Date: 10/08/2026
 
 Objective
 
@@ -447,7 +447,7 @@ Successfully understood the fundamentals of Minimal APIs in ASP.NET Core, learne
 
 # Day 8 - H2 Database, Distributed Architecture & API Testing
 
-## Date: 12/08/2026
+## Date: 11/08/2026
 
 Objective
 
@@ -565,3 +565,89 @@ CRUD API Testing
 Outcome
 
 Successfully understood the fundamentals of H2 Database, H2Sharp, Distributed Architecture, RestAssured.Net, and SDLC. Continued development of the Contacts App backend and applied the learned concepts by testing its API endpoints using RestAssured.Net.
+
+# Day 9 - Entity Framework & Dependency Injection
+
+**Date:** 12/08/2026
+
+## Objective
+
+The objective of today's session was to understand the fundamentals of **ORM and Entity Framework Core**, build a RESTful Web API using Entity Framework, and learn how **Dependency Injection** is implemented in ASP.NET Core.
+
+## What We Learned
+
+* Introduction to **ORM (Object-Relational Mapping)**
+* Understanding **Entity Framework Core (EF Core)**
+* Creating and configuring **Entities and DbContext**
+* Building a **Web API-powered REST API using Entity Framework Core**
+* Performing database operations using **EF Core**
+* Understanding **Dependency Injection in ASP.NET Core**
+* Registering services and DbContext using the built-in **DI container**
+
+## Practical Work
+
+* Bootstrapped **Entity Framework Core** in a new ASP.NET Core Web API project.
+* Continued building the **Contacts App backend** using Entity Framework Core.
+* Configured the database connection and DbContext.
+* Implemented REST API operations using EF Core and Dependency Injection.
+
+## Key Takeaway
+
+Today I learned how Entity Framework Core simplifies database interaction by allowing applications to work with database tables through C# objects. I also understood how Dependency Injection helps manage dependencies and keeps ASP.NET Core applications more maintainable and loosely coupled.
+
+# Day 10 - Entity Framework, REST API & LINQ
+
+**Date:** 13/08/2026
+
+## Objective
+
+The objective of today's session was to integrate an **H2 Database with Entity Framework**, understand C# REST API patterns using EF, and learn how **LINQ** can be used to query entities efficiently.
+
+## What We Learned
+
+* H2 Database integration with **Entity Framework**
+* Understanding **C# REST API patterns with Entity Framework**
+* Using **LINQ with Entities** for querying data
+* Performing filtering and data retrieval using LINQ
+* Understanding the interaction between REST APIs, Entity Framework, and databases
+
+## Practical Work
+
+* Integrated the **H2 Database** with Entity Framework.
+* Wired the database into the **Employee Payroll App / Address Book App backend**.
+* Implemented REST API operations using Entity Framework.
+* Used LINQ to query and retrieve entity data from the database.
+
+## Key Takeaway
+
+Today I learned how Entity Framework can be used to connect applications with databases and simplify CRUD operations. I also learned how LINQ provides a convenient way to query entities and how REST APIs can expose database operations through structured endpoints.
+
+
+# Day 11 - EF Migrations & DbContext
+
+**Date:** 14/08/2026
+
+## Objective
+
+The objective of today's session was to understand **Entity Framework Core Migrations**, schema evolution, and the configuration and lifecycle of **DbContext** while completing the Employee Payroll App and Address Book App backends.
+
+## What We Learned
+
+* Introduction to **EF Core Migrations**
+* Understanding the **schema evolution workflow**
+* Creating and applying database migrations
+* Understanding **DbContext configuration and lifecycle**
+* Managing database changes using EF Core
+* Understanding how DbContext connects the application with the database
+
+## Practical Work
+
+* Completed the **Employee Payroll App backend** using EF Core Migrations and DbContext.
+* Completed the **Address Book App backend** using EF Core Migrations and DbContext.
+* Configured DbContext for database connectivity.
+* Used EF Migrations to create and update the database schema.
+
+## Key Takeaway
+
+Today I learned how **EF Core Migrations** help manage database schema changes throughout the development lifecycle. I also understood the configuration and lifecycle of **DbContext**, which acts as the bridge between the application and the database.
+

@@ -1,7 +1,7 @@
-using FundooNotesApp.Model;
 using Microsoft.EntityFrameworkCore;
+using Repository.Entity;
 
-namespace FundooNotesApp.Data
+namespace Repository.Context
 {
     public class ApplicationDbContext : DbContext
     {

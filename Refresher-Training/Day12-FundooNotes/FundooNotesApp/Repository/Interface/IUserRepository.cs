@@ -1,6 +1,6 @@
-using FundooNotesApp.Model;
+using Repository.Entity;
 
-namespace FundooNotesApp.Repository
+namespace Repository.Interface
 {
     public interface IUserRepository
     {

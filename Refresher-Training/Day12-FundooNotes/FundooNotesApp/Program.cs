@@ -1,12 +1,13 @@
 using System.Text;
-using FundooNotesApp.Data;
-using FundooNotesApp.Helpers;
-using FundooNotesApp.Repository;
-using FundooNotesApp.Service;
+using Business.Interface;
+using Business.Service;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Repository.Context;
+using Repository.Interface;
+using Repository.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -43,9 +44,8 @@ builder.Services.AddSwaggerGen(options =>
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<JwtHelper>();
+builder.Services.AddScoped<IUserRepository, UserRepositoryImpl>();
+builder.Services.AddScoped<IUserService, UserServiceImpl>();
 
 builder.Services.AddAuthentication(options =>
 {

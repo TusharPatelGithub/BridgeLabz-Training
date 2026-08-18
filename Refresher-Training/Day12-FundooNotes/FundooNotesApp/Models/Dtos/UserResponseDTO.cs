@@ -1,4 +1,4 @@
-namespace FundooNotesApp.Model.DTOs
+namespace Models.Dtos
 {
     public class UserResponseDTO
     {

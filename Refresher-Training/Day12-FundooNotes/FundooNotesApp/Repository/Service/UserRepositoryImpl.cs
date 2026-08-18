@@ -1,14 +1,15 @@
-using FundooNotesApp.Data;
-using FundooNotesApp.Model;
 using Microsoft.EntityFrameworkCore;
+using Repository.Context;
+using Repository.Entity;
+using Repository.Interface;
 
-namespace FundooNotesApp.Repository
+namespace Repository.Service
 {
-    public class UserRepository : IUserRepository
+    public class UserRepositoryImpl : IUserRepository
     {
         private readonly ApplicationDbContext _context;
 
-        public UserRepository(ApplicationDbContext context)
+        public UserRepositoryImpl(ApplicationDbContext context)
         {
             _context = context;
         }

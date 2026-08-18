@@ -1,8 +1,8 @@
-using FundooNotesApp.Model.DTOs;
-using FundooNotesApp.Service;
+using Business.Interface;
 using Microsoft.AspNetCore.Mvc;
+using Models.Dtos;
 
-namespace FundooNotesApp.Fundoo.Controllers
+namespace FundooApp.Api.Controllers
 {
     [ApiController]
     [Route("api/auth")]

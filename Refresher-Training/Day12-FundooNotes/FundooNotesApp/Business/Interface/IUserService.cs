@@ -1,6 +1,6 @@
-using FundooNotesApp.Model.DTOs;
+using Models.Dtos;
 
-namespace FundooNotesApp.Service
+namespace Business.Interface
 {
     public interface IUserService
     {

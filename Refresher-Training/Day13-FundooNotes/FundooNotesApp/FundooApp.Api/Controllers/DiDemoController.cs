@@ -51,12 +51,5 @@ namespace FundooApp.Api.Controllers
                 }
             });
         }
-
-        // Route constraint demo: /api/di-demo/check-id/5 matches, /api/di-demo/check-id/abc gives 404.
-        [HttpGet("check-id/{id:int}")]
-        public IActionResult CheckId(int id)
-        {
-            return Ok(new { message = $"Received numeric id {id}", routeConstraintUsed = "int" });
-        }
     }
 }
